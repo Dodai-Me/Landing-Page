@@ -5,6 +5,11 @@ body{
     height: 100%;
 }
 
+a{
+    color: white;
+    text-decoration: none;
+}
+
 #background{
     background-image: url('images/securityapp.jpg');
     background-size: cover;
